@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 't biết mà 🥰. Yêu m nhiều nhiều 😘😘',
     messDesc: 'Ráng 1 tháng r gặp t nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: ' https://m.me/vanhieu1704
+    messLink: ' https://m.me/vanhieu1704 ' ,
 }
 ```
 
